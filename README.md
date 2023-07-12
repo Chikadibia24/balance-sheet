@@ -1,3 +1,3 @@
 # Balance sheet app
 
-This is a basic balance sheet app built with HTML and CSS
+This is a single-page balance sheet app built with HTML and CSS
